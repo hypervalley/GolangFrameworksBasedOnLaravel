@@ -1,6 +1,10 @@
-### larago
+#### larago
+
 Link: [larago](https://github.com/lara-go/larago)
 
-### higo
+
+#### higo
+
 Link: [higo](https://github.com/micln/higo)
-Recent change: december 2016.
+
+Last change: december 2016.
