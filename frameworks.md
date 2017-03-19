@@ -34,7 +34,7 @@ Last change: february 2017.
 
 ### Revel 
 
-[Revel](https://github.com/revel/revel)
+Link: [Revel](https://github.com/revel/revel)
 
 Last change: mid 2016.
 
@@ -43,7 +43,7 @@ Last change: mid 2016.
 
 ### Ringo 
 
-[Ringo](https://github.com/jjyr/ringo)
+Link: [Ringo](https://github.com/jjyr/ringo)
 
 Last change: october 2017.
 
@@ -53,7 +53,9 @@ Last change: october 2017.
 
 ## MVC
 
-### [Goweb](https://github.com/stretchr/goweb)
+### Goweb
+
+Link: [Goweb](https://github.com/stretchr/goweb)
 
 Last change: mid 2014. Abandoned.
 
