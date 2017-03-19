@@ -2,7 +2,15 @@
 # Frameworks
 
 
+
+
+
+
 ## Laravel
+
+
+
+
 
 ### larago (NEW)
 
@@ -11,6 +19,8 @@ Link: [larago](https://github.com/lara-go/larago)
 Last change: march 2017.
 
 "Go framework for those, who are switching from PHP and the marvelous Laravel Framework."
+
+
 
 
 ### higo
@@ -22,6 +32,8 @@ Last change: december 2016.
 "A go web framework like laravel."
 
 
+
+
 ### Lava
 
 Link: [lava](https://github.com/golava/lava)
@@ -30,7 +42,12 @@ Last change: february 2017.
 
 
 
+
 ## Rails
+
+
+
+
 
 ### Revel 
 
@@ -41,17 +58,25 @@ Last change: mid 2016.
 "A high-productivity web framework for the Go language."
 
 
+
+
+## MVC
+
+
+
+
+
 ### Ringo 
 
 Link: [Ringo](https://github.com/jjyr/ringo)
 
-Last change: october 2017.
+Last change: october 2016
 
 "Lightweight & high customized MVC web framework for Go."
 
 
 
-## MVC
+
 
 ### Goweb
 
