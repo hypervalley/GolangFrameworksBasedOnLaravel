@@ -123,18 +123,6 @@ Last change: march 2017
 Write your own perfect high-performance web applications with unlimited potentials." 
 
 
-### Yarf
-
-Link: [Yarf](https://github.com/yarf-framework/yarf)
-
-Last change: 2017
-
-"YARF is a fast micro-framework designed to build REST APIs and web services in a fast and simple way. Designed after Go's composition features, takes a new approach to write simple and DRY code."
-
-
-
-
-
 ### Gorilla
 
 Link: [Gorilla](https://github.com/gorilla)
@@ -153,6 +141,13 @@ Last change: june 2016
 "A fast, simple and lightweight micro-web framework for Go, comes with powerful features and has no dependencies other than the Go Standard Library."
 
 
+### Yarf
+
+Link: [Yarf](https://github.com/yarf-framework/yarf)
+
+Last change: 2017
+
+"YARF is a fast micro-framework designed to build REST APIs and web services in a fast and simple way. Designed after Go's composition features, takes a new approach to write simple and DRY code."
 
 
 
