@@ -67,6 +67,15 @@ Last change: mid 2016.
 
 
 
+### Utron
+
+link: [Utron](https://github.com/gernest/utron)
+
+Last change: december 2016
+
+"utron is a lightweight MVC framework in Go (Golang) for building fast, scalable and robust database-driven web applications."
+
+
 ### Ringo 
 
 Link: [Ringo](https://github.com/jjyr/ringo)
