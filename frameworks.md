@@ -96,6 +96,69 @@ Last change: mid 2014. Abandoned.
 
 "Goweb follows the MVC pattern where you build controller objects, and map them to routes of URLs using the goweb.MapController function. Controller objects should adhear to one or more of the controllers.Restful* interfaces in order to be mapped correctly."
 
+## Http Web Frameworks
+
+
+
+
+### Gin
+
+Link: [Gin](https://github.com/gin-gonic/gin)
+
+Last change: november 2016 
+
+"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+
+
+
+
+### Iris
+
+Link: [Iris](https://github.com/kataras/iris)
+
+Last change: march 2017
+
+"The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO."
+"Iris is an efficient and well-designed toolbox with robust set of features.
+Write your own perfect high-performance web applications with unlimited potentials." 
+
+
+### Yarf
+
+Link: [Yarf](https://github.com/yarf-framework/yarf)
+
+Last change: 2017
+
+"YARF is a fast micro-framework designed to build REST APIs and web services in a fast and simple way. Designed after Go's composition features, takes a new approach to write simple and DRY code."
+
+
+
+
+
+### Gorilla
+
+Link: [Gorilla](https://github.com/gorilla)
+
+Last change: 2017.
+
+"Gorilla is a web toolkit for the Go programming language."
+
+
+### Golf
+
+Link: [Golf](https://github.com/dinever/golf)
+
+Last change: june 2016
+
+"A fast, simple and lightweight micro-web framework for Go, comes with powerful features and has no dependencies other than the Go Standard Library."
+
+
+
+
+
+
+
+
 
 
 
