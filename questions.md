@@ -6,4 +6,4 @@
 
 - How much of Laravel should be followed: service container, services providers, folder structure and various components (Controller, Request, Response etc)? They should be rewritten in Golang or it is acceptable and reasonable to use similar components written in Golang?
 
-- Why not begin with a template engine based on Blade? For example, [Pongo2](https://github.com/flosch/pongo2) could be changed to our requirements?  
+- Why not begin with a template engine based on Blade? For example, [Pongo2](https://github.com/flosch/pongo2) could be modified to suit Blade features, couldn't it?
