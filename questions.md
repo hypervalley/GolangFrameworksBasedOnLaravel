@@ -2,7 +2,7 @@
 
 - Must we make Laravel Golang from scratch or adapt previous MVC framework like [Revel](https://github.com/revel/revel), [Utron](https://github.com/gernest/utron), [Rigo](https://github.com/micln/higo) etc?
 
-- Should we use http web frameworks or web toolkits like [Iris](https://github.com/kataras/iris), [Echo](https://echo.labstack.com/), [Gorilla](https://github.com/gorilla), [Martini](https://github.com/go-martini/martini) etc.
+- Should we use http web frameworks or web toolkits like [Buffalo]{http://gobuffalo.io/docs/getting-started}, [Iris](https://github.com/kataras/iris), [Echo](https://echo.labstack.com/), [Gorilla](https://github.com/gorilla), [Martini](https://github.com/go-martini/martini) etc.
 
 - How much of Laravel should be followed: service container, services providers, folder structure and various components (Controller, Request, Response etc)? They should be rewritten in Golang or it is acceptable and reasonable to use similar components written in Golang?
 
