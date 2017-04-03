@@ -12,7 +12,7 @@
 
 
 
-### larago (NEW)
+### larago
 
 Link: [larago](https://github.com/lara-go/larago)
 
