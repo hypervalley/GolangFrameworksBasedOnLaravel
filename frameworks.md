@@ -12,7 +12,7 @@
 
 
 
-### larago
+### Larago
 
 Link: [larago](https://github.com/lara-go/larago)
 
@@ -33,7 +33,7 @@ Last change: february 2017.
 
 
 
-### higo
+### Higo
 
 Link: [higo](https://github.com/micln/higo)
 
