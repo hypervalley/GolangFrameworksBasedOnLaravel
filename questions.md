@@ -8,4 +8,4 @@
 
 - What about choose Lumen instead of Laravel. It would be more easy and fast.
 
-- Why not begin with a template engine based on Blade? For example, [Pongo2](https://github.com/flosch/pongo2) could be modified to suit Blade features, couldn't it?
+- Why not begin with a template engine based on Blade? For example, [Pongo2](https://github.com/flosch/pongo2) or [Plush](https://github.com/gobuffalo/plush) could be modified to suit Blade features, couldn't it? Or these projects are acceptable.
