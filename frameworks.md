@@ -152,11 +152,11 @@ Buffalo isn't just a framework, it's a holistic web development environment and 
 
 ### Echo 
 
-Link: [Gin](https://github.com/gin-gonic/gin)
+Link: [Echo](https://github.com/labstack/echo)
 
-Last change: november 2016 (verified in march 2017).
+Last change: april 2017 (verified in april 2017).
 
-"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
+"High performance, extensible, minimalist Go web framework."
 
 
 ### Iris
